@@ -1,4 +1,4 @@
-#datasets
+# datasets
 
 The folder graph-guided fused lasso/datasets contains three datasets used in the experiments of Section 4.3 for testing Nonconvex graph-guided fused lasso problem. 
 
