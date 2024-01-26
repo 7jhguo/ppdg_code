@@ -1,4 +1,6 @@
-# The folder graph-guided fused lasso/datasets contains three datasets used in the experiments of Section 4.3 for testing Nonconvex graph-guided fused lasso problem. 
+#datasets
+
+The folder graph-guided fused lasso/datasets contains three datasets used in the experiments of Section 4.3 for testing Nonconvex graph-guided fused lasso problem. 
 
 The dataset CINA is from http://www.causality.inf.ethz.ch/data/CINA.html.
 
