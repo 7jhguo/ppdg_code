@@ -1,4 +1,4 @@
-# ppdg_code is the code for experimets in Section 4 of  our paper "Preconditioned Primal-Dual Gradient Methods for Nonconvex Composite and Finite-Sum Optimization".
+# ppdg_code is the code for the experimets in Section 4 of  our paper "Preconditioned Primal-Dual Gradient Methods for Nonconvex Composite and Finite-Sum Optimization".
 
 -ppdg_code/image denoising: Image denoising via ℓ0 gradient minimization in Subsection 4.1.
 
