@@ -4,7 +4,7 @@ This archive is distributed  under the [MIT License](https://github.com/7jhguo/p
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
-[Preconditioned Primal-Dual Gradient Methods for Nonconvex Composite and Finite-Sum Optimization] (https://arxiv.org/abs/2309.13416) by Jiahong Guo, Xiao Wang and Xiantao Xiao. 
+[Preconditioned Primal-Dual Gradient Methods for Nonconvex Composite and Finite-Sum Optimization](https://arxiv.org/abs/2309.13416) by Jiahong Guo, Xiao Wang and Xiantao Xiao. 
 
 
 - `ppdg_code/image denoising`: Image denoising via ℓ0 gradient minimization in Subsection 4.1.
